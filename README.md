@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jakubkujawa01
+- 👀 I’m interested in Cloud/DevOps, CyberSec, Web 3.0 and Programming.
+- 🌱 I’m currently learning Kubernetes and Python.
+- 💞️ I’m looking to collaborate on any interesting project!
+- 📫 You can reach me through e-mail on jakubkujawa@pm.me
